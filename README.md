@@ -9,26 +9,32 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
 </p>
 
 <p>
   <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AliHoda-arch&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AliHoda-arch&show_icons=true&locale=en&layout=compact&theme=default"
   />
 </p>
 
 <p>
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=AliHoda-arch&show_icons=true&locale=en&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=AliHoda-arch&show_icons=true&locale=en&theme=default"
   />
 </p>
 
 <p>
   <img align="center"
-    src="https://streak-stats.demolab.com?user=AliHoda-arch&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=AliHoda-arch&theme=default"
   />
 </p>

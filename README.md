@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **System Design & AI**
 - 💬 Ask me about **Next.js, React, Prisma, Node.js**
-- 📫 Reach me at **yourmail@gmail.com**
+- 📫 Reach me at **alinoc000@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
